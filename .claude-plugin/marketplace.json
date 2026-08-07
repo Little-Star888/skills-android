@@ -22,6 +22,7 @@
         "./jetpack-compose/adaptive",
         "./jetpack-compose/migration/migrate-xml-views-to-jetpack-compose",
         "./jetpack-compose/theming/styles",
+        "./media/media3-cast-integration",
         "./navigation/navigation-3",
         "./performance/r8-analyzer",
         "./play/engage-sdk-integration",
@@ -32,6 +33,7 @@
         "./security/android-intent-security",
         "./system/edge-to-edge",
         "./testing/testing-setup",
+        "./tv/leanback-to-compose-tv-migration",
         "./wear/wear-compose-m3",
         "./xr/display-glasses-with-jetpack-compose-glimmer"
       ],

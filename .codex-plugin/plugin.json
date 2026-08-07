@@ -57,6 +57,11 @@
     },
     {
       "source": {
+        "path": "./media/media3-cast-integration"
+      }
+    },
+    {
+      "source": {
         "path": "./navigation/navigation-3"
       }
     },
@@ -103,6 +108,11 @@
     {
       "source": {
         "path": "./testing/testing-setup"
+      }
+    },
+    {
+      "source": {
+        "path": "./tv/leanback-to-compose-tv-migration"
       }
     },
     {
