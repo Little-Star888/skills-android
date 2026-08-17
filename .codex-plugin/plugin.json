@@ -87,12 +87,7 @@
     },
     {
       "source": {
-        "path": "./profilers/perfetto-sql"
-      }
-    },
-    {
-      "source": {
-        "path": "./profilers/perfetto-trace-analysis"
+        "path": "./profilers/android-profiler"
       }
     },
     {
