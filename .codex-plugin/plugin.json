@@ -37,6 +37,11 @@
     },
     {
       "source": {
+        "path": "./identity/restore-credentials"
+      }
+    },
+    {
+      "source": {
         "path": "./identity/verified-email"
       }
     },

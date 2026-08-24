@@ -18,6 +18,7 @@
         "./camera/camerax",
         "./device-ai/appfunctions",
         "./devtools/android-cli",
+        "./identity/restore-credentials",
         "./identity/verified-email",
         "./jetpack-compose/adaptive",
         "./jetpack-compose/migration/migrate-xml-views-to-jetpack-compose",
